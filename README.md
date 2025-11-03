@@ -59,6 +59,8 @@ I'm a results-driven product and data analyst with 1,5+ years of experience buil
 
 I'm passionate about building data-driven products and solving complex business challenges through analytics and technology. Always open to discussing innovative projects, collaboration, or data challenges.
 
-[![Telegram](https://t.me/dianabol_metandienon_enjoyer)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Segun228)
+[Telegram](https://t.me/dianabol_metandienon_enjoyer)
+
+[GitHub](https://github.com/Segun228)
+
 📧 **Email**: segunperkele@gmail.com
