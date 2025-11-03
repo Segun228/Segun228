@@ -64,3 +64,21 @@ I'm passionate about building data-driven products and solving complex business 
 [GitHub](https://github.com/Segun228)
 
 📧 **Email**: segunperkele@gmail.com
+
+
+## 📈 GitHub Activity
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Segun228&show_icons=true&theme=radical)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Segun228&theme=github)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Segun228&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Segun228&layout=compact&theme=radical)
+
+
+![Snake animation](https://github.com/Segun228/Segun228/blob/output/github-contribution-grid-snake.svg)
