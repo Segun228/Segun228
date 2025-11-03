@@ -80,5 +80,3 @@ I'm passionate about building data-driven products and solving complex business 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Segun228&layout=compact&theme=radical)
 
-
-![Snake animation](https://raw.githubusercontent.com/Segun228/Segun228/output/github-contribution-grid-snake.svg)
