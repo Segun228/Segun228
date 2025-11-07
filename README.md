@@ -1,4 +1,4 @@
-# Hi there, I'm Nestor 👋
+# What`s up, I'm Nestor 👋
 
 **🎯 Fullstack Analyst | 🧠 Data Scietist | 📊 Analyst-Developer**  
 **📍 Moscow | 📧 segunperkele@gmail.com | [Telegram](https://t.me/dianabol_metandienon_enjoyer)**
