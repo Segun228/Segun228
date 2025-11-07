@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a results-driven product and data analyst with 1,5+ years of experience building scalable digital solutions with strong backend and ML foundations. My expertise spans from product analytics and data-driven development to solving complex business challenges through technology and machine learning. With a unique blend of product thinking, backend and ML development experience, and BI implementation skills, I transform business problems into data-informed solutions — driving efficiency, growth, and measurable impact.
+I'm a Product & Data Analyst with 1.5+ years of experience architecting data-driven solutions that bridge business needs with technical execution. My unique edge lies in combining product analytics with hands-on backend and ML expertise — allowing me to not just interpret data, but build the systems that generate it. From designing scalable analytics infrastructure to implementing machine learning models and driving product strategy, I transform complex challenges into measurable business outcomes that fuel growth and operational excellence.
 
 ## 🚀 Current Roles
 
