@@ -10,24 +10,24 @@ I'm a Product & Data Analyst with 1.5+ years of experience architecting data-dri
 ## 🚀 Current Roles
 
 ### 🏦 Data/Product Analyst @ HSE (Higher School of Economics) | *Sep 2024 – Present*
-- Working on data-driven initiatives for a large-scale fintech ecosystem
+- Working on data-driven initiatives for a large-scale foodtech ecosystem
 - Building analytical models to support business decisions  
 - Collaborating with cross-functional teams to deliver impactful insights and improve financial services
 - Searching insights in data and testing business decisions via data-driven ideology
 
 #### 🔁 Process Optimization  
-- Automated data processing workflows — reducing manual reporting time by **60%**
+- Automated data processing workflows — reducing manual reporting time
 - Streamlined data collection and analysis processes, improving efficiency
-- Implemented automated monitoring systems that reduced error rates by **25%**
+- Implemented automated monitoring systems that reduced error rates
 
 #### 📊 Business Intelligence & Analytics
 - Built **10+ interactive dashboards** in Grafana, Superset, and Power BI
-- Developed predictive models that improved business decision accuracy by **35%**
-- Created real-time KPI tracking systems that reduced reporting latency by **40%**
+- Developed predictive models that improved business decision accuracy
+- Created real-time KPI tracking systems that reduced reporting latency
 
 #### 🤝 Product & Data Strategy
 - Integrated data analytics into product development lifecycle
-- Established data-driven feedback loops that increased product adoption by **40%**
+- Established data-driven feedback loops that increased product adoption
 - Collaborated with engineering teams to implement tracking and analytics infrastructure
 
 ## 🎓 Education
@@ -52,7 +52,7 @@ I'm a Product & Data Analyst with 1.5+ years of experience architecting data-dri
 
 ## 🌍 Languages
 
-- **English** – Professional Proficiency
+- **English** – C1 Advanced
 - **Russian** – Native
 
 ## 📬 Let's Connect
